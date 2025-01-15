@@ -1,6 +1,7 @@
 # Video_speech
-this is a Video_speech 终端交互展示
+this is a Video_speech 语音合成融合情绪信息
 
 
-https://github.com/user-attachments/assets/75e3f203-4397-4ff2-908f-066516f17993
+https://github.com/user-attachments/assets/c65be326-85bb-4072-b0b7-ec4f229daab4
 
+对话demo
